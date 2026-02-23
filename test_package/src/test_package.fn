@@ -1,0 +1,7 @@
+
+# /media/strange3/Data/FurnScript/furn-lang/target/release/furn-lang src/test_package.fn
+package test_package
+
+public test_func = () {
+    rt::print("Hello from test_package!\n")
+}
